@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "M",
+    "firstName": "Michał",
+    "lastName": "Bednarek",
+    "age": 90
+  },
+  {
+    "gender": "F",
+    "firstName": "Daria",
+    "lastName": "Myszka",
+    "age": 72
+  },
+  {
+    "gender": "F",
+    "firstName": "Daria",
+    "lastName": "Bednarek",
+    "age": 93
+  },
+  {
+    "gender": "F",
+    "firstName": "Iwona",
+    "lastName": "Król",
+    "age": 53
+  },
+  {
+    "gender": "M",
+    "firstName": "Grzegorz",
+    "lastName": "Kowalski",
+    "age": 56
+  },
+  {
+    "gender": "F",
+    "firstName": "Daria",
+    "lastName": "Sak",
+    "age": 83
+  },
+  {
+    "gender": "F",
+    "firstName": "Marta",
+    "lastName": "Król",
+    "age": 89
+  },
+  {
+    "gender": "M",
+    "firstName": "Grzegorz",
+    "lastName": "Myszka",
+    "age": 28
+  },
+  {
+    "gender": "M",
+    "firstName": "Dominik",
+    "lastName": "Sak",
+    "age": 88
+  },
+  {
+    "gender": "F",
+    "firstName": "Iwona",
+    "lastName": "Król",
+    "age": 19
+  },
+  {
+    "gender": "F",
+    "firstName": "Magda",
+    "lastName": "Sak",
+    "age": 25
+  },
+  {
+    "gender": "F",
+    "firstName": "Marta",
+    "lastName": "Król",
+    "age": 77
+  },
+  {
+    "gender": "M",
+    "firstName": "Piotr",
+    "lastName": "Sak",
+    "age": 29
+  },
+  {
+    "gender": "M",
+    "firstName": "Dominik",
+    "lastName": "Sak",
+    "age": 61
+  },
+  {
+    "gender": "M",
+    "firstName": "Grzegorz",
+    "lastName": "Sak",
+    "age": 19
+  },
+  {
+    "gender": "F",
+    "firstName": "Daria",
+    "lastName": "Bednarek",
+    "age": 56
+  },
+  {
+    "gender": "M",
+    "firstName": "Grzegorz",
+    "lastName": "Sak",
+    "age": 26
+  },
+  {
+    "gender": "F",
+    "firstName": "Magda",
+    "lastName": "Myszka",
+    "age": 93
+  },
+  {
+    "gender": "F",
+    "firstName": "Iwona",
+    "lastName": "Myszka",
+    "age": 54
+  },
+  {
+    "gender": "M",
+    "firstName": "Dominik",
+    "lastName": "Bednarek",
+    "age": 80
+  }
+]
